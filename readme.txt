@@ -1,3 +1,9 @@
+* A command line Java application to find the word or words with the most
+anagrams. An anagram is another word that uses all the characters of the given word, just in
+a different order or with a different capitalization. 
+
+
+
 How long does your program take to produce the answer when using the bst, rbt, and hash
 flags? Copy the results into this readme file.
     Hash
